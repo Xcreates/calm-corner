@@ -4,7 +4,7 @@
 Built for *Rotary AI for Good: Build for Your Community*. Areas of focus: **Peacebuilding & conflict prevention** and **mental well-being**.
 
 🔗 **Live app:** https://xcreates.github.io/calm-corner/
-🎬 **Demo video:** _add your Google Drive link here_
+🎬 **Demo video:** https://drive.google.com/file/d/1sGiV-aGOeqsk2MMqK0kjJUgoA6bZn_rp/view?usp=sharing
 
 ![Calm Corner home](screenshots/home.png)
 
